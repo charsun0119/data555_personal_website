@@ -6,7 +6,7 @@ title: "Projects"
 <h2>Main Projects</h2>
 
 <p>
-These projects demonstrate my experience in public health data analysis, database design, and interactive visualization. Each project focuses on transforming complex datasets into meaningful insights for research and policy.
+These projects are examples of my experience in public health data analysis, database design, and interactive visualization. Each project focuses on transforming complex datasets into meaningful insights for research and policy.
 </p>
 
 </div>
@@ -20,7 +20,7 @@ This project explores the relationship between alcohol consumption, psychologica
 </p>
 
 <ul>
-<li>Cleaned and prepared survey data for analysis</li>
+<li>Cleaned survey data for analysis</li>
 <li>Created interactive visualizations for user exploration</li>
 <li>Analyzed relationships between behavioral and demographic variables</li>
 </ul>

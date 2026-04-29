@@ -2,10 +2,12 @@
   display: flex;
   align-items: center;
   gap: 40px;
-  padding: 40px;
-  background-color: #f5f7fb;
-  border-radius: 16px;
-  margin-bottom: 30px;
+  padding: 50px;
+  background: linear-gradient(135deg, #f5f7fb 0%, #e8eff9 100%);
+  border-radius: 20px;
+  margin-bottom: 40px;
+  border: 1px solid rgba(108, 155, 202, 0.1);
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.03);
 }
 
 .hero-text {
@@ -28,32 +30,45 @@
 }
 
 .img-block img {
-  width: 180px;
+  width: 190px;
   height: auto;
   object-fit: contain;
-  border-radius: 0px;
+  border-radius: 12px;
   display: block;
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.1);
+  transition: transform 0.3s ease;
+}
+
+.img-block img:hover {
+  transform: translateY(-5px);
 }
 
 .img-caption {
-  font-size: 12px;
-  color: #002147;
-  margin-top: 4px;
+  font-size: 13px;
+  font-weight: 600;
+  letter-spacing: 0.5px;
+  text-transform: uppercase;
+  color: #4a5568;
+  margin-top: 12px;
 }
 
 .button {
   display: inline-block;
-  padding: 10px 18px;
+  padding: 12px 24px;
   background-color: #6c9bca;
-  color: white;
-  border-radius: 8px;
+  color: white !important;
+  border-radius: 10px;
   text-decoration: none;
-  margin-top: 10px;
+  margin-top: 15px;
+  font-weight: 500;
+  transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+  box-shadow: 0 4px 12px rgba(108, 155, 202, 0.3);
 }
 
 .button:hover {
   background-color: #325f8b;
-  color: white;
+  transform: translateY(-2px);
+  box-shadow: 0 6px 15px rgba(50, 95, 139, 0.4);
 }
 
 .button-group .button {
@@ -62,11 +77,17 @@
 }
 
 .section-card {
-  padding: 28px;
-  margin-bottom: 25px;
-  border-radius: 14px;
+  padding: 35px;
+  margin-bottom: 30px;
+  border-radius: 18px;
   background-color: white;
-  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.08);
+  border: 1px solid #f0f0f0;
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.05);
+  transition: box-shadow 0.3s ease;
+}
+
+.section-card:hover {
+  box-shadow: 0 8px 30px rgba(0, 0, 0, 0.08);
 }
 
 .card-grid {
@@ -76,10 +97,18 @@
 
 .mini-card {
   flex: 1;
-  padding: 20px;
-  border-radius: 12px;
-  background-color: #f8f9fa;
-  border-left: 4px solid #2c3e50;
+  padding: 24px;
+  border-radius: 14px;
+  background-color: #ffffff;
+  border: 1px solid #eef0f2;
+  border-left: 5px solid #6c9bca;
+  transition: all 0.3s ease;
+}
+
+.mini-card:hover {
+  background-color: #fcfdfe;
+  transform: scale(1.02);
+  border-left-color: #325f8b;
 }
 
 @media screen and (max-width: 768px) {
