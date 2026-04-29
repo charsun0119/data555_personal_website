@@ -52,8 +52,13 @@
 }
 
 .button:hover {
-  background-color: #1a252f;
+  background-color: #325f8b;
   color: white;
+}
+
+.button-group .button {
+  width: 180px;
+  text-align: center;
 }
 
 .section-card {

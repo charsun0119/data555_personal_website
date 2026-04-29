@@ -29,6 +29,10 @@ This project explores the relationship between alcohol consumption, psychologica
 View Dashboard
 </a>
 
+<a class="button" href="https://github.com/charsun0119/DATA555_final" target="_blank">
+View on GitHub
+</a>
+
 </div>
 
 <div class="section-card">
@@ -46,11 +50,15 @@ This project analyzes national trends in anxiety and depression symptoms using d
 </ul>
 
 <p>
-Key findings show a significant overall decline in anxiety and depression symptoms from 2020 to 2024, with persistent disparities among certain populations such as bisexual individuals, transgender individuals, and people with disabilities :contentReference[oaicite:0]{index=0}.
+Key findings show a significant overall decline in anxiety and depression symptoms from 2020 to 2024, with persistent disparities among certain populations such as bisexual individuals, transgender individuals, and people with disabilities.
 </p>
 
 <a class="button" href="https://github.com/charsun0119/BIOS584-Final" target="_blank">
 View on GitHub
+</a>
+
+<a class="button" href="files/poster.pdf" download>
+Download Poster
 </a>
 
 </div>
