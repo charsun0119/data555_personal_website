@@ -1,0 +1,20 @@
+name: "personal-website"
+output_dir: "docs"
+
+navbar:
+  title: "Yijing Sun"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "CV"
+      href: cv.html
+    - text: "Projects"
+      href: projects.html
+  right:
+    - text: "GitHub"
+      href: https://github.com/charsun0119
+
+output:
+  html_document:
+    theme: flatly
+    css: styles.css

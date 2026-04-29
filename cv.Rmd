@@ -1,0 +1,83 @@
+---
+title: "CV"
+---
+
+## Download Resume
+
+<a class="button" href="files/Yijing_Sun_Resume.pdf" download>
+Download PDF Resume
+</a>
+
+<br><br>
+
+<div class="section-card">
+
+<h2>Yijing Sun</h2>
+
+<p><strong>Email:</strong> yijing.sun@emory.edu  
+<strong>Phone:</strong> +1 (404)-205-3056</p>
+
+</div>
+
+<div class="section-card">
+
+<h3>Education</h3>
+
+<p>
+<strong>Emory University, Rollins School of Public Health</strong><br>
+Master of Public Health (Health Policy & Management), Data Science Certificate<br>
+2024 – 2026
+</p>
+
+<p>
+<strong>University of Toronto</strong><br>
+Bachelor of Science, Immunology<br>
+2019 – 2023
+</p>
+
+</div>
+
+<div class="section-card">
+
+<h3>Academic Experience</h3>
+
+<p>
+<strong>Support Networks and Problem Solving Among Older Adults Experiencing Self-Neglect</strong><br>
+Conducted quantitative and qualitative analysis on elder abuse data, including data cleaning, normalization, and visualization.
+</p>
+
+<p>
+<strong>NLP to Identify Adults Aging Solo Using EMR Data</strong><br>
+Performed EMR chart review and extracted linguistic indicators to support model development.
+</p>
+
+</div>
+
+<div class="section-card">
+
+<h3>Professional Experience</h3>
+
+<p>
+<strong>Teaching Assistant – Emory University</strong><br>
+Supported instruction for R programming and data analysis, assisting students with coding and statistical concepts.
+</p>
+
+<p>
+<strong>IQVIA – Clinical Operations Internship</strong><br>
+Assisted in clinical trial inspection preparation and analysis of regulatory documentation.
+</p>
+
+</div>
+
+<div class="section-card">
+
+<h3>Skills</h3>
+
+<ul>
+<li>R, Python, SQL, SAS</li>
+<li>Data visualization and statistical modeling</li>
+<li>Health policy and economic evaluation</li>
+<li>Bilingual: English & Chinese</li>
+</ul>
+
+</div>

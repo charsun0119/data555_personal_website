@@ -1,0 +1,56 @@
+---
+title: "Projects"
+---
+
+<div class="section-card">
+<h2>Main Projects</h2>
+
+<p>
+These projects demonstrate my experience in public health data analysis, database design, and interactive visualization. Each project focuses on transforming complex datasets into meaningful insights for research and policy.
+</p>
+
+</div>
+
+<div class="section-card">
+
+<h3>Alcohol Use and Psychological Distress Dashboard</h3>
+
+<p>
+This project explores the relationship between alcohol consumption, psychological distress, income level, and sex using national survey data. I developed an interactive dashboard that allows users to examine patterns and trends in health behavior and mental health outcomes.
+</p>
+
+<ul>
+<li>Cleaned and prepared survey data for analysis</li>
+<li>Created interactive visualizations for user exploration</li>
+<li>Analyzed relationships between behavioral and demographic variables</li>
+</ul>
+
+<a class="button" href="https://charsun0119.github.io/DATA555_final/final-4a.html" target="_blank">
+View Dashboard
+</a>
+
+</div>
+
+<div class="section-card">
+
+<h3>Trends in Anxiety and Depression Among U.S. Adults (2020–2024)</h3>
+
+<p>
+This project analyzes national trends in anxiety and depression symptoms using data from the CDC Household Pulse Survey. The analysis examines how mental health outcomes changed from the COVID-19 pandemic through the recovery period and identifies disparities across demographic groups.
+</p>
+
+<ul>
+<li>Analyzed large-scale survey data using Python (pandas, numpy, statsmodels)</li>
+<li>Computed annual mean severity scores and visualized trends over time</li>
+<li>Built multivariable regression models to identify demographic disparities</li>
+</ul>
+
+<p>
+Key findings show a significant overall decline in anxiety and depression symptoms from 2020 to 2024, with persistent disparities among certain populations such as bisexual individuals, transgender individuals, and people with disabilities :contentReference[oaicite:0]{index=0}.
+</p>
+
+<a class="button" href="https://github.com/charsun0119/BIOS584-Final" target="_blank">
+View on GitHub
+</a>
+
+</div>

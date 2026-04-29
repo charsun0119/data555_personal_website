@@ -1,0 +1,35 @@
+---
+title: "Home"
+---
+
+<div class="hero-section">
+<div class="hero-text">
+<h1>Hi! This is Yijing Sun</h1>
+
+<p>
+I am an MPH candidate in Health Policy and Managements at Rollins School of Public Health, Emory University. I am interested in public health, data science, statistical analysis and policy research. 
+</p>
+
+<p>
+My work focuses on using data to better understand health-related issues,
+including mental health, alcohol use, aging populations, and healthcare policy.
+I have experience working with R, SQL, Python, SAS, data visualization, and
+interactive dashboard development.
+</p>
+
+<a class="button" href="projects.html">View My Projects</a>
+</div>
+
+<div class="hero-image">
+
+<div class="img-block">
+<img src="images/dudu.jpg" alt="Profile photo 1">
+<p class="img-caption">My cat Dudu</p>
+</div>
+
+<div class="img-block">
+<img src="images/nini.jpg" alt="Profile photo 2">
+<p class="img-caption">My cat Nini</p>
+</div>
+
+</div>
